@@ -1,4 +1,9 @@
 import React, { Component } from 'react';
+//import DateRangePicker from 'react-bootstrap-daterangepicker';
+//import 'bootstrap/dist/css/bootstrap.css';
+//import 'bootstrap-daterangepicker/daterangepicker.css';
+
+
 
 
 class Grupo extends Component {
@@ -12,12 +17,12 @@ class Grupo extends Component {
                             <div>
                                 <i className="material-icons">swap_horiz</i>
                             </div>
-                            <b>CODIGO:</b>
+                            
                             <div className="center">
                                 <input type="text" />
                             </div>
 
-                            <button type="submit" className="waves-effect waves-light btn-small ">CONSULTAR</button>
+                            <button type="submit" className="waves-effect waves-light btn-small ">Elegir fecha</button>
                         </div>
 
                     </form>
