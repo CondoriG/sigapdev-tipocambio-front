@@ -1,0 +1,38 @@
+h1 {
+    background-color: black;
+    padding: 20px;
+    font-family: 'Exo', sans-serif;
+    color: lightblue;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.grupo {
+    border-radius: 0px 0px 6px 6px;
+    background-color: #f2f2f2;
+    padding: 29px;
+    width: 50%;
+    margin: 0 auto;
+    width: 420px;
+    border-radius: 15px 60px;
+}
+
+.titulo_formulario {
+    text-align: center;
+}
+
+.material-icons {
+    font-size: 30px;
+    
+}
+
+
+
+.titulo_formulario {
+    text-align: center;
+}
+
+.center3 {
+    text-align: center;
+}
